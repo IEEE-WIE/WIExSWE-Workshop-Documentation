@@ -102,7 +102,7 @@ For Users with VS code/ Editors and pre installed necessary libraries:
 python -m venv tutorial-env
 
 # Clone the repository
-git clone https://github.com/Sanober494/WIExSWE-Workshop-Documentation.git
+git clone https://github.com/IEEE-WIE/WIExSWE-Workshop-Documentation.git
 
 #Install dependencies if needed
 
