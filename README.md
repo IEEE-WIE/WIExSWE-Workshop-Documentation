@@ -107,7 +107,7 @@ git clone https://github.com/IEEE-WIE/WIExSWE-Workshop-Documentation.git
 #Install dependencies if needed
 
 # Run the notebook
-jupyter notebook Code.ipynb
+jupyter notebook Final_Code.ipynb
 
 # Happy Learning Sugars :)
 ```
